@@ -6,5 +6,5 @@ This ExpressionEngine plugin returns a video title and description from a YouTub
 Usage
 -----
 
-{exp:yt_meta:title}  
-{exp:yt_meta:description}
+{exp:yt_meta:title video_id="{id}"}  
+{exp:yt_meta:description video_id="{id}"}
