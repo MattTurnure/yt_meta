@@ -1,4 +1,10 @@
-yt_meta
+Yt_meta
 =======
 
-ExpressionEngine plugin that allows you to display YouTube video titles and descriptions
+This ExpressionEngine plugin returns a video title and description from a YouTube video ID.
+
+Usage
+-----
+
+{exp:yt_meta:title}
+{exp:yt_meta:description}
