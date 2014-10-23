@@ -79,8 +79,8 @@ class Yt_meta {
 
 Returns Video title and description from video ID.
 
-    {exp:yt_meta:title}
-    {exp:yt_meta:description}
+    {exp:yt_meta:title video_id="{id}"}
+    {exp:yt_meta:description video_id="{id}"}
 
 
     <?php
